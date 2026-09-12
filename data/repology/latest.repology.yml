@@ -1,36 +1,3 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: gfold
-  binname: gfold
-  visiblename: gfold
-  version: 2026.3.0
-  origversion: 2026.3.0-2
-  status: newest
-  summary: A CLI tool to help keep track of Git repositories
-  licenses:
-    - Apache-2.0
-- repo: parabola
-  subrepo: extra
-  srcname: gfold
-  binname: gfold
-  visiblename: gfold
-  version: 2026.3.0
-  origversion: 2026.3.0-2
-  status: newest
-  summary: A CLI tool to help keep track of Git repositories
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: gfold
-  binname: gfold
-  visiblename: gfold
-  version: 2026.3.0
-  origversion: 2026.3.0-2
-  status: newest
-  summary: A CLI tool to help keep track of Git repositories
-  licenses:
-    - Apache-2.0
 - repo: alpine_3_18
   subrepo: community
   srcname: gfold
@@ -116,7 +83,7 @@
   visiblename: gfold
   version: 2026.3.0
   origversion: 2026.3.0-r0
-  status: newest
+  status: outdated
   summary: CLI tool to help keep track of Git repositories
   maintainers:
     - michal@polanski.me
@@ -129,7 +96,7 @@
   visiblename: gfold-doc
   version: 2026.3.0
   origversion: 2026.3.0-r0
-  status: newest
+  status: outdated
   summary: CLI tool to help keep track of Git repositories (documentation)
   maintainers:
     - michal@polanski.me
@@ -142,21 +109,10 @@
   visiblename: gfold
   version: 2026.3.0
   origversion: 2026.3.0-r0
-  status: newest
+  status: outdated
   summary: CLI tool to help keep track of Git repositories
   maintainers:
     - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: nix_unstable
-  srcname: gfold
-  visiblename: gfold
-  version: 2026.3.0
-  origversion: null
-  status: newest
-  summary: CLI tool to help keep track of your Git repositories, written in Rust
-  maintainers:
-    - sigmanificient@gmail.com
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -166,7 +122,7 @@
   visiblename: gfold-doc
   version: 2026.3.0
   origversion: 2026.3.0-r0
-  status: newest
+  status: outdated
   summary: CLI tool to help keep track of Git repositories (documentation)
   maintainers:
     - michal@polanski.me
@@ -177,8 +133,8 @@
   srcname: gfold
   binname: gfold
   visiblename: gfold
-  version: 2026.3.0
-  origversion: 2026.3.0-2
+  version: 2026.9.0
+  origversion: 2026.9.0-1
   status: newest
   summary: A CLI tool to help keep track of Git repositories
   licenses:
@@ -198,7 +154,7 @@
 - repo: crates_io
   srcname: gfold
   visiblename: gfold
-  version: 2026.3.0
+  version: 2026.9.0
   origversion: null
   status: newest
   summary: CLI tool to help keep track of your Git repositories.
@@ -217,7 +173,7 @@
 - repo: homebrew
   srcname: gfold
   visiblename: gfold
-  version: 2026.3.0
+  version: 2026.9.0
   origversion: null
   status: newest
   summary: Help keep track of your Git repositories, written in Rust
@@ -234,7 +190,7 @@
   visiblename: gfold
   version: 2026.3.0
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI tool to help keep track of your Git repositories
   maintainers:
     - herbygillot@github
@@ -249,7 +205,29 @@
   visiblename: gfold
   version: 2026.3.0
   origversion: 2026.3.0-2
-  status: newest
+  status: outdated
+  summary: A CLI tool to help keep track of Git repositories
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gfold
+  binname: gfold
+  visiblename: gfold
+  version: 2026.3.0
+  origversion: 2026.3.0-2
+  status: outdated
+  summary: A CLI tool to help keep track of Git repositories
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gfold
+  binname: gfold
+  visiblename: gfold
+  version: 2026.3.0
+  origversion: 2026.3.0-2
+  status: outdated
   summary: A CLI tool to help keep track of Git repositories
   licenses:
     - Apache-2.0
@@ -302,9 +280,31 @@
   visiblename: gfold
   version: 2026.3.0
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI tool to help keep track of your Git repositories, written in Rust
   maintainers:
     - sigmanificient@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: gfold
+  visiblename: gfold
+  version: 2026.3.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to help keep track of your Git repositories, written in Rust
+  maintainers:
+    - sigmanificient@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: gfold
+  binname: gfold
+  visiblename: gfold
+  version: 2026.3.0
+  origversion: 2026.3.0-2
+  status: outdated
+  summary: A CLI tool to help keep track of Git repositories
   licenses:
     - Apache-2.0

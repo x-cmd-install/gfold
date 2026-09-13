@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2509400,
       "digest": "sha256:27cd5f429e8e175d45761c65d9fda029410bd3a3336745681c76a97ff0076860",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-11T19:27:12Z",
       "updated_at": "2026-09-11T19:27:12Z",
       "browser_download_url": "https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-gnu-powerpc64le"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2317248,
       "digest": "sha256:50a79c68b3b6a86ef7fb432d2351b7f26fc833d7aa4fdfb557013a9f6a505f1a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-11T19:27:27Z",
       "updated_at": "2026-09-11T19:27:27Z",
       "browser_download_url": "https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-musl-x86-64"

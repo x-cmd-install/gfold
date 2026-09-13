@@ -76,6 +76,17 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: gfold
+  visiblename: gfold
+  version: 4.4.1
+  origversion: null
+  status: outdated
+  summary: CLI tool to help keep track of your Git repositories, written in Rust
+  maintainers:
+    - sigmanificient@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_24
   subrepo: community
   srcname: gfold
@@ -225,32 +236,10 @@
   srcname: gfold
   binname: gfold
   visiblename: gfold
-  version: 2026.3.0
-  origversion: 2026.3.0-2
-  status: outdated
+  version: 2026.9.0
+  origversion: 2026.9.0-1
+  status: newest
   summary: A CLI tool to help keep track of Git repositories
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: gfold
-  visiblename: gfold
-  version: 4.4.1
-  origversion: null
-  status: outdated
-  summary: CLI tool to help keep track of your Git repositories, written in Rust
-  maintainers:
-    - sigmanificient@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: gfold
-  visiblename: gfold
-  version: 4.5.0
-  origversion: null
-  status: outdated
-  summary: CLI tool to help keep track of your Git repositories, written in Rust
-  maintainers:
-    - sigmanificient@gmail.com
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
@@ -306,5 +295,16 @@
   origversion: 2026.3.0-2
   status: outdated
   summary: A CLI tool to help keep track of Git repositories
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: gfold
+  visiblename: gfold
+  version: 4.5.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to help keep track of your Git repositories, written in Rust
+  maintainers:
+    - sigmanificient@gmail.com
   licenses:
     - Apache-2.0

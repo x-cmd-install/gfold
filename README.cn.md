@@ -20,7 +20,7 @@ x install gfold
 |------|-----:|-----:|-----:|------:|
 | Rust | 949 | 47 | 129 | 10 |
 | Toml | 42 | 0 | 6 | 2 |
-| Markdown | 0 | 711 | 428 | 10 |
+| Markdown | 0 | 714 | 430 | 10 |
 
 ## OpenSSF Scorecard 评分
 
@@ -40,8 +40,8 @@ x install gfold
 
 ## 发布
 
-- **最新版本**: `2026.3.0` (2026-03-25)
-- **最近提交**: 2026-06-10
+- **最新版本**: `2026.9.0` (2026-09-11)
+- **最近提交**: 2026-09-11
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -50,42 +50,42 @@ x install gfold
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 171 · **开放 PR**: 0 · **已关闭 issue**: 115 · **开放 issue**: 8 · **提交数**: 347
+- **发布数**: 40 · **已合并 PR**: 171 · **开放 PR**: 0 · **已关闭 issue**: 115 · **开放 issue**: 8 · **提交数**: 350
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 1 | 0 | 0 | 0 | 0 | 8 |
-| 360d | 2025-09-16 | 2 | 2 | 0 | 0 | 0 | 16 |
-| last720d | 2024-09-21 | 10 | 29 | 0 | 9 | 1 | 87 |
+| 30d | 2026-08-14 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-15 | 1 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-15 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-17 | 2 | 0 | 0 | 0 | 0 | 11 |
+| 360d | 2025-09-18 | 3 | 2 | 0 | 0 | 0 | 19 |
+| last720d | 2024-09-23 | 11 | 29 | 0 | 9 | 1 | 90 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gfold-darwin-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-darwin-aarch64) | 1.4 MiB | `native/darwin/arm64` |
-| [gfold-darwin-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-darwin-x86-64) | 1.6 MiB | `native/darwin/x64` |
-| [gfold-linux-gnu-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-gnu-aarch64) | 1.6 MiB | `native/linux/arm64/glibc` |
-| [gfold-linux-gnu-powerpc64le](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-gnu-powerpc64le) | 2.1 MiB | `other` |
-| [gfold-linux-gnu-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-gnu-x86-64) | 1.8 MiB | `other` |
-| [gfold-linux-musl-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-musl-aarch64) | 1.7 MiB | `native/linux/arm64/musl` |
-| [gfold-linux-musl-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-musl-x86-64) | 2.0 MiB | `other` |
-| [gfold-windows-x86-64.exe](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-windows-x86-64.exe) | 2.0 MiB | `native/win/x64` |
+| [gfold-darwin-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-darwin-aarch64) | 1.7 MiB | `native/darwin/arm64` |
+| [gfold-darwin-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-darwin-x86-64) | 1.8 MiB | `native/darwin/x64` |
+| [gfold-linux-gnu-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-gnu-aarch64) | 1.9 MiB | `native/linux/arm64/glibc` |
+| [gfold-linux-gnu-powerpc64le](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-gnu-powerpc64le) | 2.4 MiB | `other` |
+| [gfold-linux-gnu-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-gnu-x86-64) | 2.1 MiB | `other` |
+| [gfold-linux-musl-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-musl-aarch64) | 2.0 MiB | `native/linux/arm64/musl` |
+| [gfold-linux-musl-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-musl-x86-64) | 2.2 MiB | `other` |
+| [gfold-windows-x86-64.exe](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-windows-x86-64.exe) | 2.2 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/gfold) 上共有 **27** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/gfold) 上共有 **27** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `2026.3.0` | ✅ latest |
-| Homebrew | `2026.3.0` | ✅ latest |
-| Nix unstable | `2026.3.0` | ✅ latest |
-| Alpine edge | `2026.3.0` | ✅ latest |
+| Arch | `2026.9.0` | ✅ latest |
+| Homebrew | `2026.9.0` | ✅ latest |
+| Nix unstable | `2026.3.0` | ⚠️ outdated |
+| Alpine edge | `2026.3.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -96,4 +96,4 @@ gfold 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T18:28:47Z._
+_数据快照: `data/card/260913.yml` · 2026-09-13T06:31:48Z._

@@ -20,7 +20,7 @@ Total: **991** lines of code across **22** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Rust | 949 | 47 | 129 | 10 |
 | Toml | 42 | 0 | 6 | 2 |
-| Markdown | 0 | 711 | 428 | 10 |
+| Markdown | 0 | 714 | 430 | 10 |
 
 ## OpenSSF Scorecard
 
@@ -40,8 +40,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2026.3.0` (2026-03-25)
-- **Last commit**: 2026-06-10
+- **Latest**: `2026.9.0` (2026-09-11)
+- **Last commit**: 2026-09-11
 - **Assets in release**: 8
 
 ## Popularity
@@ -50,42 +50,42 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 171 · **Open PRs**: 0 · **Closed issues**: 115 · **Open issues**: 8 · **Commits**: 347
+- **Releases**: 40 · **Merged PRs**: 171 · **Open PRs**: 0 · **Closed issues**: 115 · **Open issues**: 8 · **Commits**: 350
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 1 | 0 | 0 | 0 | 0 | 8 |
-| 360d | 2025-09-16 | 2 | 2 | 0 | 0 | 0 | 16 |
-| last720d | 2024-09-21 | 10 | 29 | 0 | 9 | 1 | 87 |
+| 30d | 2026-08-14 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-15 | 1 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-15 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-17 | 2 | 0 | 0 | 0 | 0 | 11 |
+| 360d | 2025-09-18 | 3 | 2 | 0 | 0 | 0 | 19 |
+| last720d | 2024-09-23 | 11 | 29 | 0 | 9 | 1 | 90 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gfold-darwin-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-darwin-aarch64) | 1.4 MiB | `native/darwin/arm64` |
-| [gfold-darwin-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-darwin-x86-64) | 1.6 MiB | `native/darwin/x64` |
-| [gfold-linux-gnu-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-gnu-aarch64) | 1.6 MiB | `native/linux/arm64/glibc` |
-| [gfold-linux-gnu-powerpc64le](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-gnu-powerpc64le) | 2.1 MiB | `other` |
-| [gfold-linux-gnu-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-gnu-x86-64) | 1.8 MiB | `other` |
-| [gfold-linux-musl-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-musl-aarch64) | 1.7 MiB | `native/linux/arm64/musl` |
-| [gfold-linux-musl-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-linux-musl-x86-64) | 2.0 MiB | `other` |
-| [gfold-windows-x86-64.exe](https://github.com/nickgerace/gfold/releases/download/2026.3.0/gfold-windows-x86-64.exe) | 2.0 MiB | `native/win/x64` |
+| [gfold-darwin-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-darwin-aarch64) | 1.7 MiB | `native/darwin/arm64` |
+| [gfold-darwin-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-darwin-x86-64) | 1.8 MiB | `native/darwin/x64` |
+| [gfold-linux-gnu-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-gnu-aarch64) | 1.9 MiB | `native/linux/arm64/glibc` |
+| [gfold-linux-gnu-powerpc64le](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-gnu-powerpc64le) | 2.4 MiB | `other` |
+| [gfold-linux-gnu-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-gnu-x86-64) | 2.1 MiB | `other` |
+| [gfold-linux-musl-aarch64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-musl-aarch64) | 2.0 MiB | `native/linux/arm64/musl` |
+| [gfold-linux-musl-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-musl-x86-64) | 2.2 MiB | `other` |
+| [gfold-windows-x86-64.exe](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-windows-x86-64.exe) | 2.2 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **27** distros on [repology.org](https://repology.org/project/gfold). **14** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/gfold). **4** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `2026.3.0` | ✅ latest |
-| Homebrew | `2026.3.0` | ✅ latest |
-| Nix unstable | `2026.3.0` | ✅ latest |
-| Alpine edge | `2026.3.0` | ✅ latest |
+| Arch | `2026.9.0` | ✅ latest |
+| Homebrew | `2026.9.0` | ✅ latest |
+| Nix unstable | `2026.3.0` | ⚠️ outdated |
+| Alpine edge | `2026.3.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -96,4 +96,4 @@ Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:28:46Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:31:48Z._

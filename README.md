@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-15 | 1 | 0 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-15 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last180d | 2026-03-17 | 2 | 0 | 0 | 0 | 0 | 11 |
-| 360d | 2025-09-18 | 3 | 2 | 0 | 0 | 0 | 19 |
-| last720d | 2024-09-23 | 11 | 29 | 0 | 9 | 1 | 90 |
+| 30d | 2026-08-15 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-16 | 1 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-16 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-18 | 2 | 0 | 0 | 0 | 0 | 11 |
+| 360d | 2025-09-19 | 3 | 2 | 0 | 0 | 0 | 19 |
+| last720d | 2024-09-24 | 11 | 29 | 0 | 9 | 1 | 90 |
 
 ## Release assets
 
@@ -76,17 +76,6 @@ Lowest-scoring checks:
 | [gfold-linux-musl-x86-64](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-musl-x86-64) | 2.2 MiB | `other` |
 | [gfold-windows-x86-64.exe](https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-windows-x86-64.exe) | 2.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **27** distros on [repology.org](https://repology.org/project/gfold). **4** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2026.9.0` | ✅ latest |
-| Homebrew | `2026.9.0` | ✅ latest |
-| Nix unstable | `2026.3.0` | ⚠️ outdated |
-| Alpine edge | `2026.3.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gfold` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +85,4 @@ Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:31:48Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:48:19Z._

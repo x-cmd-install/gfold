@@ -4,7 +4,7 @@
 
 CLI tool to help keep track of your Git repositories, written in Rust
 
-![gfold](https://repo.x-cmd.io/gfold.svg?lang=zh)
+[![x-cmd/install — gfold Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gfold.svg?lang=zh)](https://x-cmd.com/install/gfold)
 
 ## 安装
 
@@ -57,12 +57,12 @@ x install gfold
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 3 | 1 | 0 | 0 | 6 |
-| last60d | 2026-07-20 | 1 | 3 | 1 | 0 | 0 | 6 |
-| 90d | 2026-06-20 | 1 | 3 | 1 | 0 | 0 | 6 |
-| last180d | 2026-03-22 | 2 | 3 | 1 | 0 | 0 | 14 |
-| 360d | 2025-09-23 | 3 | 5 | 1 | 0 | 0 | 22 |
-| last720d | 2024-09-28 | 11 | 32 | 1 | 9 | 1 | 93 |
+| 30d | 2026-08-21 | 1 | 3 | 1 | 0 | 0 | 6 |
+| last60d | 2026-07-22 | 1 | 3 | 1 | 0 | 0 | 6 |
+| 90d | 2026-06-22 | 1 | 3 | 1 | 0 | 0 | 6 |
+| last180d | 2026-03-24 | 2 | 3 | 1 | 0 | 0 | 14 |
+| 360d | 2025-09-25 | 3 | 5 | 1 | 0 | 0 | 22 |
+| last720d | 2024-09-30 | 11 | 32 | 1 | 9 | 1 | 93 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ gfold 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:34:05Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:36:01Z._

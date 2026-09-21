@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2509400,
       "digest": "sha256:27cd5f429e8e175d45761c65d9fda029410bd3a3336745681c76a97ff0076860",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-11T19:27:12Z",
       "updated_at": "2026-09-11T19:27:12Z",
       "browser_download_url": "https://github.com/nickgerace/gfold/releases/download/2026.9.0/gfold-linux-gnu-powerpc64le"

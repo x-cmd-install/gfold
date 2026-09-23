@@ -4,7 +4,7 @@
 
 CLI tool to help keep track of your Git repositories, written in Rust
 
-[![x-cmd/install — gfold Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gfold.svg)](https://x-cmd.com/install/gfold)
+[![x-cmd/install — gfold Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gfold.svg)](https://x-cmd.com/install/gfold)
 
 ## Install
 
@@ -14,24 +14,24 @@ x install gfold
 
 ## Code insight
 
-Total: **1,752** lines of code across **30** files in the top 5 languages.
+Total: **2,372** lines of code across **31** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,672 | 47 | 263 | 14 |
-| Toml | 66 | 0 | 8 | 4 |
+| Rust | 2,290 | 47 | 299 | 14 |
+| Toml | 68 | 0 | 8 | 4 |
 | JavaScript | 14 | 0 | 0 | 1 |
-| Markdown | 0 | 721 | 433 | 11 |
+| Markdown | 0 | 738 | 436 | 12 |
 
 ## OpenSSF Scorecard
 
-Overall score: **3 / 10**
+Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/29 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.9.0` (2026-09-11)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-22
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 174 · **Open PRs**: 1 · **Closed issues**: 115 · **Open issues**: 8 · **Commits**: 353
+- **Releases**: 40 · **Merged PRs**: 177 · **Open PRs**: 0 · **Closed issues**: 115 · **Open issues**: 8 · **Commits**: 357
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 3 | 1 | 0 | 0 | 6 |
-| last60d | 2026-07-24 | 1 | 3 | 1 | 0 | 0 | 6 |
-| 90d | 2026-06-24 | 1 | 3 | 1 | 0 | 0 | 6 |
-| last180d | 2026-03-26 | 1 | 3 | 1 | 0 | 0 | 11 |
-| 360d | 2025-09-27 | 3 | 5 | 1 | 0 | 0 | 22 |
-| last720d | 2024-10-02 | 11 | 32 | 1 | 9 | 1 | 93 |
+| 30d | 2026-08-24 | 1 | 6 | 0 | 0 | 0 | 10 |
+| last60d | 2026-07-25 | 1 | 6 | 0 | 0 | 0 | 10 |
+| 90d | 2026-06-25 | 1 | 6 | 0 | 0 | 0 | 10 |
+| last180d | 2026-03-27 | 1 | 6 | 0 | 0 | 0 | 15 |
+| 360d | 2025-09-28 | 3 | 8 | 0 | 0 | 0 | 26 |
+| last720d | 2024-10-03 | 11 | 35 | 0 | 9 | 1 | 97 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:42:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:53:42Z._

@@ -4,7 +4,7 @@
 
 CLI tool to help keep track of your Git repositories, written in Rust
 
-[![x-cmd/install — gfold Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gfold.svg?lang=zh)](https://x-cmd.com/install/gfold)
+[![x-cmd/install — gfold Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gfold.svg?lang=zh)](https://x-cmd.com/install/gfold)
 
 ## 安装
 
@@ -14,24 +14,24 @@ x install gfold
 
 ## 代码洞察
 
-合计: **1,752** 行代码（覆盖前 5 种语言、共 **30** 个文件）。
+合计: **2,372** 行代码（覆盖前 5 种语言、共 **31** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,672 | 47 | 263 | 14 |
-| Toml | 66 | 0 | 8 | 4 |
+| Rust | 2,290 | 47 | 299 | 14 |
+| Toml | 68 | 0 | 8 | 4 |
 | JavaScript | 14 | 0 | 0 | 1 |
-| Markdown | 0 | 721 | 433 | 11 |
+| Markdown | 0 | 738 | 436 | 12 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3 / 10**
+总评分: **3.6 / 10**
 
 评分最低的几项:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/29 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -42,7 +42,7 @@ x install gfold
 ## 发布
 
 - **最新版本**: `2026.9.0` (2026-09-11)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install gfold
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 174 · **开放 PR**: 1 · **已关闭 issue**: 115 · **开放 issue**: 8 · **提交数**: 353
+- **发布数**: 40 · **已合并 PR**: 177 · **开放 PR**: 0 · **已关闭 issue**: 115 · **开放 issue**: 8 · **提交数**: 357
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 3 | 1 | 0 | 0 | 6 |
-| last60d | 2026-07-24 | 1 | 3 | 1 | 0 | 0 | 6 |
-| 90d | 2026-06-24 | 1 | 3 | 1 | 0 | 0 | 6 |
-| last180d | 2026-03-26 | 1 | 3 | 1 | 0 | 0 | 11 |
-| 360d | 2025-09-27 | 3 | 5 | 1 | 0 | 0 | 22 |
-| last720d | 2024-10-02 | 11 | 32 | 1 | 9 | 1 | 93 |
+| 30d | 2026-08-24 | 1 | 6 | 0 | 0 | 0 | 10 |
+| last60d | 2026-07-25 | 1 | 6 | 0 | 0 | 0 | 10 |
+| 90d | 2026-06-25 | 1 | 6 | 0 | 0 | 0 | 10 |
+| last180d | 2026-03-27 | 1 | 6 | 0 | 0 | 0 | 15 |
+| 360d | 2025-09-28 | 3 | 8 | 0 | 0 | 0 | 26 |
+| last720d | 2024-10-03 | 11 | 35 | 0 | 9 | 1 | 97 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ gfold 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:42:36Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:53:42Z._

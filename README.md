@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 401 · **Forks**: 22 · **Open issues**: 123 · **Contributors**: 9
+- **Stars**: 402 · **Forks**: 22 · **Open issues**: 123 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 7 | 0 | 0 | 0 | 12 |
-| last60d | 2026-07-28 | 1 | 7 | 0 | 0 | 0 | 12 |
-| 90d | 2026-06-28 | 1 | 7 | 0 | 0 | 0 | 12 |
-| last180d | 2026-03-30 | 1 | 7 | 0 | 0 | 0 | 17 |
-| 360d | 2025-10-01 | 3 | 9 | 0 | 0 | 0 | 28 |
-| last720d | 2024-10-06 | 11 | 36 | 0 | 9 | 1 | 99 |
+| 30d | 2026-08-28 | 1 | 7 | 0 | 0 | 0 | 12 |
+| last60d | 2026-07-29 | 1 | 7 | 0 | 0 | 0 | 12 |
+| 90d | 2026-06-29 | 1 | 7 | 0 | 0 | 0 | 12 |
+| last180d | 2026-03-31 | 1 | 7 | 0 | 0 | 0 | 17 |
+| 360d | 2025-10-02 | 3 | 9 | 0 | 0 | 0 | 28 |
+| last720d | 2024-10-07 | 11 | 36 | 0 | 9 | 1 | 99 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:10:52Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:39:05Z._

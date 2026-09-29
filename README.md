@@ -25,7 +25,7 @@ Total: **2,564** lines of code across **32** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.6 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 402 · **Forks**: 22 · **Open issues**: 123 · **Contributors**: 9
+- **Stars**: 401 · **Forks**: 22 · **Open issues**: 123 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 7 | 0 | 0 | 0 | 12 |
-| last60d | 2026-07-30 | 1 | 7 | 0 | 0 | 0 | 12 |
-| 90d | 2026-06-30 | 1 | 7 | 0 | 0 | 0 | 12 |
-| last180d | 2026-04-01 | 1 | 7 | 0 | 0 | 0 | 17 |
-| 360d | 2025-10-03 | 3 | 9 | 0 | 0 | 0 | 28 |
-| last720d | 2024-10-08 | 11 | 36 | 0 | 9 | 1 | 99 |
+| 30d | 2026-08-30 | 1 | 7 | 0 | 0 | 0 | 12 |
+| last60d | 2026-07-31 | 1 | 7 | 0 | 0 | 0 | 12 |
+| 90d | 2026-07-01 | 1 | 7 | 0 | 0 | 0 | 12 |
+| last180d | 2026-04-02 | 1 | 7 | 0 | 0 | 0 | 17 |
+| 360d | 2025-10-04 | 3 | 9 | 0 | 0 | 0 | 28 |
+| last720d | 2024-10-09 | 11 | 36 | 0 | 9 | 1 | 99 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:50:46Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T07:14:00Z._

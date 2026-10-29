@@ -23,16 +23,6 @@ Total: **2,564** lines of code across **32** files in the top 5 languages.
 | JavaScript | 14 | 0 | 0 | 1 |
 | Markdown | 0 | 740 | 437 | 13 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.8 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 0/29 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/nickgerace/gfold>
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-29 | 1 | 7 | 0 | 0 | 0 | 12 |
-| 90d | 2026-07-30 | 1 | 7 | 0 | 0 | 0 | 12 |
-| last180d | 2026-05-01 | 1 | 7 | 0 | 0 | 0 | 15 |
-| 360d | 2025-11-02 | 3 | 9 | 0 | 0 | 0 | 28 |
-| last720d | 2024-11-07 | 11 | 36 | 0 | 7 | 1 | 99 |
+| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-30 | 1 | 7 | 0 | 0 | 0 | 12 |
+| 90d | 2026-07-31 | 1 | 7 | 0 | 0 | 0 | 12 |
+| last180d | 2026-05-02 | 1 | 7 | 0 | 0 | 0 | 15 |
+| 360d | 2025-11-03 | 3 | 9 | 0 | 0 | 0 | 28 |
+| last720d | 2024-11-08 | 11 | 36 | 0 | 7 | 1 | 99 |
 
 ## Release assets
 
@@ -97,4 +87,4 @@ Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T07:08:23Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:16:40Z._

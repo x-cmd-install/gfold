@@ -14,11 +14,11 @@ x install gfold
 
 ## Code insight
 
-Total: **2,564** lines of code across **32** files in the top 5 languages.
+Total: **2,599** lines of code across **32** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 2,482 | 48 | 314 | 14 |
+| Rust | 2,517 | 48 | 317 | 14 |
 | Toml | 68 | 0 | 8 | 4 |
 | JavaScript | 14 | 0 | 0 | 1 |
 | Markdown | 0 | 740 | 437 | 13 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.9.0` (2026-09-11)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-10-30
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 402 · **Forks**: 23 · **Open issues**: 123 · **Contributors**: 9
+- **Stars**: 402 · **Forks**: 23 · **Open issues**: 123 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 178 · **Open PRs**: 1 · **Closed issues**: 115 · **Open issues**: 8 · **Commits**: 359
+- **Releases**: 40 · **Merged PRs**: 179 · **Open PRs**: 0 · **Closed issues**: 116 · **Open issues**: 7 · **Commits**: 360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 1 | 7 | 1 | 0 | 0 | 12 |
-| 90d | 2026-08-01 | 1 | 7 | 1 | 0 | 0 | 12 |
-| last180d | 2026-05-03 | 1 | 7 | 1 | 0 | 0 | 15 |
-| 360d | 2025-11-04 | 3 | 9 | 1 | 0 | 0 | 28 |
-| last720d | 2024-11-09 | 11 | 36 | 1 | 7 | 1 | 99 |
+| 30d | 2026-10-01 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-01 | 1 | 8 | 0 | 0 | 0 | 13 |
+| 90d | 2026-08-02 | 1 | 8 | 0 | 0 | 0 | 13 |
+| last180d | 2026-05-04 | 1 | 8 | 0 | 0 | 0 | 16 |
+| 360d | 2025-11-05 | 3 | 10 | 0 | 0 | 0 | 29 |
+| last720d | 2024-11-10 | 11 | 37 | 0 | 7 | 1 | 100 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:17:21Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T07:06:54Z._

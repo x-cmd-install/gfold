@@ -1,3 +1,48 @@
+- repo: homebrew
+  srcname: gfold
+  visiblename: gfold
+  version: 2026.9.0
+  origversion: null
+  status: newest
+  summary: Help keep track of your Git repositories, written in Rust
+- repo: homebrew
+  srcname: gfold
+  visiblename: gfold
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Help keep track of your Git repositories, written in Rust
+- repo: aur
+  srcname: gfold-git
+  binname: gfold-git
+  visiblename: gfold-git
+  version: 4.6.0.r2.gb749238
+  origversion: 4.6.0.r2.gb749238-1
+  status: rolling
+  summary: A CLI tool to help keep track of Git repositories (git)
+  maintainers:
+    - orhun@aur
+  licenses:
+    - Apache
+- repo: crates_io
+  srcname: gfold
+  visiblename: gfold
+  version: 2026.9.0
+  origversion: null
+  status: newest
+  summary: CLI tool to help keep track of your Git repositories.
+- repo: freebsd
+  srcname: devel/gfold
+  binname: gfold
+  visiblename: devel/gfold
+  version: 4.0.0
+  origversion: 4.0.0_40
+  status: outdated
+  summary: CLI tool to help keep track of your Git repositories
+  maintainers:
+    - sec.research.2005@gmail.com
+  categories:
+    - devel
 - repo: alpine_3_18
   subrepo: community
   srcname: gfold
@@ -139,51 +184,6 @@
   summary: A CLI tool to help keep track of Git repositories
   licenses:
     - Apache-2.0
-- repo: aur
-  srcname: gfold-git
-  binname: gfold-git
-  visiblename: gfold-git
-  version: 4.6.0.r2.gb749238
-  origversion: 4.6.0.r2.gb749238-1
-  status: rolling
-  summary: A CLI tool to help keep track of Git repositories (git)
-  maintainers:
-    - orhun@aur
-  licenses:
-    - Apache
-- repo: crates_io
-  srcname: gfold
-  visiblename: gfold
-  version: 2026.9.0
-  origversion: null
-  status: newest
-  summary: CLI tool to help keep track of your Git repositories.
-- repo: freebsd
-  srcname: devel/gfold
-  binname: gfold
-  visiblename: devel/gfold
-  version: 4.0.0
-  origversion: 4.0.0_40
-  status: outdated
-  summary: CLI tool to help keep track of your Git repositories
-  maintainers:
-    - sec.research.2005@gmail.com
-  categories:
-    - devel
-- repo: homebrew
-  srcname: gfold
-  visiblename: gfold
-  version: 2026.9.0
-  origversion: null
-  status: newest
-  summary: Help keep track of your Git repositories, written in Rust
-- repo: homebrew
-  srcname: gfold
-  visiblename: gfold
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Help keep track of your Git repositories, written in Rust
 - repo: macports
   srcname: devel/gfold
   binname: gfold

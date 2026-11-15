@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-15 | 0 | 8 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-16 | 1 | 8 | 0 | 0 | 0 | 13 |
-| last180d | 2026-05-18 | 1 | 8 | 0 | 0 | 0 | 16 |
-| 360d | 2025-11-19 | 3 | 10 | 0 | 0 | 0 | 29 |
-| last720d | 2024-11-24 | 11 | 35 | 0 | 7 | 0 | 100 |
+| 30d | 2026-10-16 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-16 | 0 | 6 | 0 | 0 | 0 | 3 |
+| 90d | 2026-08-17 | 1 | 8 | 0 | 0 | 0 | 13 |
+| last180d | 2026-05-19 | 1 | 8 | 0 | 0 | 0 | 15 |
+| 360d | 2025-11-20 | 3 | 10 | 0 | 0 | 0 | 29 |
+| last720d | 2024-11-25 | 11 | 35 | 0 | 7 | 0 | 100 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for gfold lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:33:06Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:23:11Z._
